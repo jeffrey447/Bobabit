@@ -9,7 +9,7 @@ A game similar to Catch the Beat on osu, but boba-themed.
 >> Members: Jeffrey Ha, Henry Chan, Stephanie Kwan, Mary Nguyen
 > Was intended to be a fun first-time experience.
 
-![title](https://imgur.com/a/hWPZpw6)
-![instructions](https://imgur.com/a/XRmdXmx)
-![main game](https://imgur.com/a/rmYbQt9)
-![game over](https://imgur.com/a/ITI01Un)
+![title](https://imgur.com/a/hWPZpw6.png)
+![instructions](https://imgur.com/a/XRmdXmx.png)
+![main game](https://imgur.com/a/rmYbQt9.png)
+![game over](https://imgur.com/a/ITI01Un.png)
